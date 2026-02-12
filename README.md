@@ -1,1 +1,0 @@
-# egyptlandmark-lands-rs.github.io
