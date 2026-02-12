@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://egyptlandmark-lands-rs.github.io/sitemap.xml
