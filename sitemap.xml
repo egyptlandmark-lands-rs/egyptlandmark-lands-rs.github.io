@@ -110,5 +110,16 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-01/lands-for-sale-in-egypt-01-en.html" hreflang="en-us"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-01/Investment Land For Sale in 6 October 42 Acres Egypt.jpg" hreflang="ar-eg"/>
 	</url>
+		<url>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-02/lands-for-sale-in-egypt-02-ar.html" hreflang="ar-eg"/>
+	</url>
 </urlset>
+
 
