@@ -140,17 +140,18 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-04/lands-for-sale-in-egypt-04-en.html" hreflang="en-us"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-04/lands-for-sale-in-egypt-04-ar.html" hreflang="ar-eg"/>
 	</url>
-		<url>
-		<loc>https://egyptlandmark.github.io/lands-for-sale-in-egypt-contact-en.html</loc>
-		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-for-sale-in-egypt-contact-en.html" hreflang="ar-eg"/>
-		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-for-sale-in-egypt-contact-en.html" hreflang="en-us"/>
+	<url>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-en.html" hreflang="en-us"/>
 	</url>
 	<url>
-		<loc>https://egyptlandmark.github.io/lands-for-sale-in-egypt-about-en.html</loc>
-		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-for-sale-in-egypt-about-ar.html" hreflang="ar-eg"/>
-		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-for-sale-in-egypt-about-en.html" hreflang="en-us"/>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-ar.html" hreflang="ar-eg"/>
 	</url>
 </urlset>
+
 
 
 
