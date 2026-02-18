@@ -150,7 +150,18 @@
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-en.html" hreflang="en-us"/>
 		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-05/lands-for-sale-in-egypt-05-ar.html" hreflang="ar-eg"/>
 	</url>
+		<url>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-ccairo-50-acres-ar.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-ccairo-50-acres-ar.html" hreflang="ar-eg"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-cairo-50-acres-en.html" hreflang="en-us"/>
+	</url>
+	<url>
+		<loc>https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-cairo-50-acres-en.html</loc>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-cairo-50-acres-en.html" hreflang="en-us"/>
+		<xhtml:link rel="alternate" href="https://egyptlandmark-lands-rs.github.io/lands-sale-cairo-ar/lsc-06/lands-for-sale-in-ccairo-50-acres-ar.html" hreflang="ar-eg"/>
+	</url>
 </urlset>
+
 
 
 
